@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{   
+{   // all the function calls are included in main
     int choice;
     int i;
     printf("enter the number of data:");
